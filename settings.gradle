@@ -1,0 +1,2 @@
+include ':app', ':moticon_insole3_service-03_00_00-release'
+rootProject.name='Holomoticon_v02'
